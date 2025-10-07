@@ -1,0 +1,6 @@
+print ("Введите первое целое число")
+a = int(input())
+a = round(a)
+print ("Введите второе целое число")
+b = int(input())
+print (a)
