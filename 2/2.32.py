@@ -1,0 +1,6 @@
+m = float(input("монитор: "))
+s = float(input("системный блок: "))
+k = float(input("клавиатура: "))
+mouse = float(input("мышь: "))
+n = int(input("компьютеров: "))
+print(n * (m + s + k + mouse))

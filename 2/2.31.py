@@ -1,0 +1,7 @@
+a = float(input("конфеты: "))
+b = float(input("печенье: "))
+c = float(input("яблоки: "))
+x = float(input("кг конфет: "))
+y = float(input("кг печенья: "))
+z = float(input("кг яблок: "))
+print(x*a + y*b + z*c)
