@@ -1,0 +1,6 @@
+x1, y1 = float(input()), float(input())
+w1, h1 = float(input()), float(input())
+x2, y2 = float(input()), float(input())
+w2, h2 = float(input()), float(input())
+print(min(x1, x2), min(y1, y2))
+print(max(x1 + w1, x2 + w2), max(y1 + h1, y2 + h2))
