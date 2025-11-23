@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a11ba2c1-f5e9-428f-935b-537c88afe8c6" name="Changes" comment="4 razdel">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="0001" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;MeoWitty&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/MeoWitty/1400tasks.git&quot;,
+    &quot;accountId&quot;: &quot;cb7b4b89-ce67-4f33-a6f5-54f06c37c910&quot;
+  },
+  &quot;recentNewPullRequestHead&quot;: {
+    &quot;server&quot;: {
+      &quot;useHttp&quot;: false,
+      &quot;host&quot;: &quot;github.com&quot;,
+      &quot;port&quot;: null,
+      &quot;suffix&quot;: null
+    },
+    &quot;owner&quot;: &quot;MeoWitty&quot;,
+    &quot;repository&quot;: &quot;1400tasks&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="32hOFDdZroxyRyTtuAwavgWefUL" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.0001.executor": "Run",
+    "Python.0002.executor": "Run",
+    "Python.0003.executor": "Run",
+    "Python.0004.executor": "Run",
+    "Python.0005.executor": "Run",
+    "Python.0006.executor": "Run",
+    "Python.0007.executor": "Run",
+    "Python.1_7.executor": "Run",
+    "Python.2..7.executor": "Run",
+    "Python.2.10.executor": "Run",
+    "Python.2.11.executor": "Run",
+    "Python.2.12.executor": "Run",
+    "Python.2.13.executor": "Run",
+    "Python.2.14.executor": "Run",
+    "Python.2.16.executor": "Run",
+    "Python.2.18.executor": "Run",
+    "Python.2.19.executor": "Run",
+    "Python.2.20.executor": "Run",
+    "Python.2.22.executor": "Run",
+    "Python.2.25.executor": "Run",
+    "Python.2.26.executor": "Run",
+    "Python.2.27.executor": "Run",
+    "Python.2.28.executor": "Run",
+    "Python.2.30.executor": "Run",
+    "Python.2.31.executor": "Run",
+    "Python.2.8.executor": "Run",
+    "Python.2.9.executor": "Run",
+    "Python.2_1a.executor": "Run",
+    "Python.2_1b.executor": "Run",
+    "Python.2_2.executor": "Run",
+    "Python.2_3a.executor": "Run",
+    "Python.2_3b.executor": "Run",
+    "Python.2_4.executor": "Run",
+    "Python.2_5.executor": "Run",
+    "Python.2_6.executor": "Run",
+    "Python.3.26.executor": "Run",
+    "Python.3.27.executor": "Run",
+    "Python.3.31.executor": "Run",
+    "Python.3.32.executor": "Run",
+    "Python.3.33.executor": "Run",
+    "Python.3.37.executor": "Run",
+    "Python.3.39.executor": "Run",
+    "Python.4.1.executor": "Run",
+    "Python.4.2.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\darkd\PycharmProjects\1400tasks\1" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-98f27166c754-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.21829.153" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a11ba2c1-f5e9-428f-935b-537c88afe8c6" name="Changes" comment="" />
+      <created>1757869231413</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1757869231413</updated>
+    </task>
+    <task id="LOCAL-00001" summary="1-7 tasks">
+      <option name="closed" value="true" />
+      <created>1757871737646</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1757871737646</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1-7 tasks">
+      <option name="closed" value="true" />
+      <created>1759853734976</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1759853734976</updated>
+    </task>
+    <task id="LOCAL-00003" summary="2 razdel">
+      <option name="closed" value="true" />
+      <created>1759854137798</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1759854137798</updated>
+    </task>
+    <task id="LOCAL-00004" summary="2 razdel">
+      <option name="closed" value="true" />
+      <created>1760375799567</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1760375799567</updated>
+    </task>
+    <task id="LOCAL-00005" summary="2 razdel">
+      <option name="closed" value="true" />
+      <created>1761242410386</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1761242410386</updated>
+    </task>
+    <task id="LOCAL-00006" summary="3 razdel">
+      <option name="closed" value="true" />
+      <created>1761242583685</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1761242583685</updated>
+    </task>
+    <task id="LOCAL-00007" summary="3 razdel">
+      <option name="closed" value="true" />
+      <created>1761324512642</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1761324512642</updated>
+    </task>
+    <task id="LOCAL-00008" summary="3 razdel">
+      <option name="closed" value="true" />
+      <created>1761420979983</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1761420979983</updated>
+    </task>
+    <task id="LOCAL-00009" summary="3 razdel2">
+      <option name="closed" value="true" />
+      <created>1761578640133</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1761578640133</updated>
+    </task>
+    <task id="LOCAL-00010" summary="3 razdel koneц">
+      <option name="closed" value="true" />
+      <created>1761670665315</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1761670665315</updated>
+    </task>
+    <task id="LOCAL-00011" summary="4 razdel">
+      <option name="closed" value="true" />
+      <created>1761671794501</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1761671794501</updated>
+    </task>
+    <task id="LOCAL-00012" summary="4 razdel">
+      <option name="closed" value="true" />
+      <created>1761672053585</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1761672053585</updated>
+    </task>
+    <task id="LOCAL-00013" summary="4 razdel">
+      <option name="closed" value="true" />
+      <created>1761711757196</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1761711757196</updated>
+    </task>
+    <task id="LOCAL-00014" summary="4 razdel">
+      <option name="closed" value="true" />
+      <created>1761832747646</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1761832747646</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1-7 tasks" />
+    <MESSAGE value="2 razdel" />
+    <MESSAGE value="3 razdel" />
+    <MESSAGE value="3 razdel2" />
+    <MESSAGE value="3 razdel koneц" />
+    <MESSAGE value="4 razdel" />
+    <option name="LAST_COMMIT_MESSAGE" value="4 razdel" />
+  </component>
+</project>

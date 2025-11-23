@@ -1,0 +1,5 @@
+a1,b1,c1=float(input()),float(input()),float(input())
+a2,b2,c2=float(input()),float(input()),float(input())
+m1=a1+b1+c1-max(a1,b1,c1)-min(a1,b1,c1)
+m2=a2+b2+c2-max(a2,b2,c2)-min(a2,b2,c2)
+print((m1+m2)/2)
