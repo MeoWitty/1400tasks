@@ -1,0 +1,8 @@
+for i in range(20,36):print(i)
+a=int(input())
+for i in range(a,51):print(i*i)
+b=int(input())
+for i in range(10,b+1):print(i*i*i)
+a=int(input())
+b=int(input())
+for i in range(a,b+1):print(i)
