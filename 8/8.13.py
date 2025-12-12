@@ -1,0 +1,7 @@
+a = float(input())
+n = 1
+s = 1
+while s <= a:
+    n = n + 1
+    s = s + 1 / n
+print(n)
